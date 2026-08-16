@@ -1,0 +1,7 @@
+interface:
+  display_name: "Legal Analysis and Advocacy"
+  short_description: "Reason from authority, facts, and role"
+  default_prompt: "Use $legal-analysis-writing-advocacy to organize a fictional or public legal reasoning packet with authority, facts, uncertainty, and review boundaries."
+policy:
+  allow_implicit_invocation: true
+

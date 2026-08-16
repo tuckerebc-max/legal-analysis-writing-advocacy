@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Bounded Legal Reasoning Artifact",
+  "type": "object",
+  "required": ["artifact_id", "status", "matter_contract", "authority_map", "fact_record", "professional_boundary", "next_action"],
+  "properties": {
+    "artifact_id": {"type": "string"}, "status": {"type": "string"}, "matter_contract": {"type": "object"},
+    "authority_map": {"type": "array"}, "fact_record": {"type": "array"}, "issue_tree": {"type": "array"},
+    "rule_records": {"type": "array"}, "application": {"type": "array"}, "counteranalysis": {"type": "array"},
+    "options": {"type": "array"}, "professional_boundary": {"type": "object"}, "human_review": {"type": "object"},
+    "next_action": {"type": "string"}
+  },
+  "additionalProperties": true
+}

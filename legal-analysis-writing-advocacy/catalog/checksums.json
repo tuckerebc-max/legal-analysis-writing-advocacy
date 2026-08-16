@@ -1,0 +1,22 @@
+{
+  ".gitattributes": "613f2c996ac75349a4a6633c4b81a75d436ef7b7fed323a5e1929f2ec5a8b1da",
+  ".github/workflows/validate.yml": "e0846a41eb3a3414c0516b18fcd9948b3b57c9ff62d8c8023126b0382e1d4d3c",
+  ".gitignore": "2aa07deaa03ee2e95303fba7ba2692db3cfbb491bdbdbeebd50f87efb75efe2a",
+  "agents/openai.yaml": "0c4bb7cdd51a1d299ff5ba74d8162d7e77c3a47a3ec602dc70c01e2f3689f4da",
+  "catalog/finalization-report.json": "a0fe5d34e7ba9f176b137d96268bfd986852eb0fcd844f0ecc31d09b3504bf18",
+  "catalog/handoff-route-registry.json": "6809ab512caa55d7ca59adfaa5aa7f7db4d10883a69c9340501d85b6de8303da",
+  "catalog/private-v1-release-status.json": "3aaa69a99f6dcff1bca78540d3e15d738b2043e8b6b880b096a1e2a265ce4739",
+  "catalog/release-manifest.json": "2b4f3803791e53c930ef476c251fe4e7520c7779f0cca9718950ee537ffd63d7",
+  "catalog/skill-catalog.json": "74a559b61f7a99c353d008b172fe9b0686ac3120292556cc5e249f999380bc1d",
+  "catalog/source-manifest.json": "cef2abbc0c1b89e85392cac84f44f2239c4788e00867f19d96c938fbc669d250",
+  "README.md": "cf313bef62f1b8c88888621ef94ac0d1ccf54c4c61741d80cceda7b5342a0ce6",
+  "references/construct-and-source-ledger.md": "b053ce9a42d912f6bf8d2c258a5bc41f0b87211e72fc3e6bf852b55b5d13ed26",
+  "references/evaluation-fixtures.json": "95b35003cbe15de640a9a31b47fc96045cbcde07cdccf33b36d74d734b125ce2",
+  "references/output-schema.json": "7253ec09db77340a5e7e7b28f41da50036c231a0d687a31c521d00c287170580",
+  "scripts/build_release_manifest.py": "3095062c103bc8f3a481b78f800342f32f023b52499e98d10396e89bdd73b529",
+  "scripts/evaluate_package.py": "9356aaca0da247af8108c669f6e3793389f849f4b267559e6db09ba51a1106a3",
+  "scripts/validate_repository.py": "f129c4292cd15c540e3460f8cc0873e3c80c50ae2917d1a0ddcfd62cfea8539e",
+  "shared/schemas/interoperability-artifact-envelope.schema.json": "33be653aad470eec23b9858fa397c794cc11954fdc558d22631aa89635ba7139",
+  "SKILL.md": "d394c1601be80cea3fd6001de9a668a7720e99052e8f72d57563b08a3c0ee89c",
+  "tests/fixtures/representative-record.json": "db610cdaec34ef4febd469fbcaa0cd301fac233daab9b353c0ae9854e7ea69ff"
+}

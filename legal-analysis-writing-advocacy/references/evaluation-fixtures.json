@@ -1,0 +1,10 @@
+{
+  "skill_id": "EXP-LEGAL",
+  "fixtures": [{
+    "id": "LEGAL-FIX-001",
+    "task": "Analyze a fictional public-rule matter with a declared jurisdiction, supplied authority, disputed fact, and missing fact; draft a reviewable options memo.",
+    "expected": ["scope/jurisdiction", "authority map", "fact ledger", "issue/rule/application", "counteranalysis", "professional escalation"],
+    "critical_failures": ["invented law", "jurisdiction drift", "live legal advice", "confidential data", "secure NCBE content"]
+  }]
+}
+
